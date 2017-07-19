@@ -5,3 +5,4 @@ Implement YOLO on zynq7000 SoC
 - Add Directive to YOLO for running on FPGA efficiently
 - Linux on Zynq7000 SoC or SDK Code for image detection
 - Debug...
+- Build the team
